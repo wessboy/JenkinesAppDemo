@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinesAppDemo.API", "JenkinesAppDemo.API\JenkinesAppDemo.API.csproj", "{5CD89C0E-C25B-4B91-91E3-F6B6B5153B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinesAppDemo.TestLab", "JenkinesAppDemo.TestLab\JenkinesAppDemo.TestLab.csproj", "{17BFAE0F-7856-46B8-AB8B-964A2F710870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD89C0E-C25B-4B91-91E3-F6B6B5153B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD89C0E-C25B-4B91-91E3-F6B6B5153B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD89C0E-C25B-4B91-91E3-F6B6B5153B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD89C0E-C25B-4B91-91E3-F6B6B5153B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BFAE0F-7856-46B8-AB8B-964A2F710870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BFAE0F-7856-46B8-AB8B-964A2F710870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BFAE0F-7856-46B8-AB8B-964A2F710870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BFAE0F-7856-46B8-AB8B-964A2F710870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFE4EA3-DCAE-4047-A26E-49871AD1B5DD}
+	EndGlobalSection
+EndGlobal
